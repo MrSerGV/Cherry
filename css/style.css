@@ -1,5 +1,8 @@
 *{
+<<<<<<< HEAD
 
+=======
+>>>>>>> 988f42dc34db21434e0c1bfe0096743fe9133865
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -482,11 +485,8 @@ span.footer_letter {
 }
 .footer_tel {
 	color: #85898f;
-=======
-	margin:0;
-	padding:0;
-	box-sizing: border-box;
 }
+<<<<<<< HEAD
 body {
 	min-width: 320px;
 	font-family: "Montserrat", sans-serif;
@@ -558,3 +558,5 @@ body {
 	cursor: pointer;
 	outline: none;
 }
+=======
+>>>>>>> 988f42dc34db21434e0c1bfe0096743fe9133865
